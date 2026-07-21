@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://karan.github.io/Age-Calculator-Pro/sitemap.xml
