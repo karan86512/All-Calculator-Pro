@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://karan.github.io/Age-Calculator-Pro/sitemap.xml
+Sitemap:https://karan86512.github.io/All-Calculator-Pro/sitemap.xml
