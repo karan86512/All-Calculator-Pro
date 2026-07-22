@@ -2,7 +2,7 @@
 
 PercentagePro is a modern, fast, and responsive online calculator website built using **HTML, CSS, and JavaScript**. It provides multiple calculators in one place with a clean UI and mobile-friendly design.
 
-🌐 **Live Demo:** https://karan.github.io/Age-Calculator-Pro/
+🌐 **Live Demo:** https://karan86512.github.io/All-Calculator-Pro/
 
 ---
 
