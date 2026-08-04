@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap:https://karan86512.github.io/All-Calculator-Pro/sitemap.xml
+Sitemap: https://all-calculator-pro.karanmorehub.com/sitemap.xml
